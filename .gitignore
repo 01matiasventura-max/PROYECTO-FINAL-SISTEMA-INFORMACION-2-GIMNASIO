@@ -1,0 +1,25 @@
+# Configuration
+config/db.php
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+vendor/
+node_modules/
+
+# Logs
+*.log
+
+# Sessions
+sessions/
+
+# Temporary files
+*.tmp
+*.temp
